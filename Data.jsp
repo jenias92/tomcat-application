@@ -8,6 +8,7 @@
 <title>Yevgeni Smorgon 314174699</title>
 </head>
 <body>
+    Yevgeni Smorgon 314174699
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 </html>
